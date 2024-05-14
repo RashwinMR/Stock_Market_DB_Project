@@ -16,6 +16,7 @@ Relation Schema:-
 ![Relation Schema](https://github.com/RashwinMR/Stock_Market_DB_Project/assets/128909663/7d5bd9dc-57ae-4922-88d2-2bee56b1bb09)
 
 Team Members:
+
 Rashwin Musuku - https://github.com/RashwinMR
 
 Pradhyumna Kasam - https://github.com/pradhyumnakasam
